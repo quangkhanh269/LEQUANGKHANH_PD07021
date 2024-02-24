@@ -1,5 +1,5 @@
 import React from "react";
-import { Styles } from "./styles";
+import { styles } from "./styles";
 import {  Image, TouchableOpacity, View } from "react-native";
 
 const Checkbox =({checked,onCheck})=>{
